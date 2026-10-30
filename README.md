@@ -1,7 +1,5 @@
 # Dashboard Marketing Mensuel — Canal+
 
-![Vue d'ensemble du workflow n8n](Video/workflow-canvas-canalplus.jpg)
-
 **Reporting marketing mensuel automatisé** : collecte (Google Ads, Meta Ads, CRM) → KPI calculés → synthèse + 3 recommandations par IA (Gemini) → Google Sheets & Google Slides mis à jour automatiquement.
 
 > ⚠️ Version de test : sources branchées sur des données fictives (`noOp`), les vrais connecteurs se branchent au même endroit.
